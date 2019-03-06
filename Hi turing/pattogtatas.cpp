@@ -3,7 +3,11 @@
 // console meret megadasa(es megtartasa)
 //optimizalas
 //szepites
-
+/*
+vx es vy vektorban taroljuk hogy mennyivel kell valtoztatni a labda x es y koordinatajanak irannytenyezojet
+xv,xy=labda koordinatajat ezzel noveljuk/csokkentjuk
+v-vektor a palya, labdaval
+*/
 #include <iostream>
 #include <stdlib.h>
 using namespace std;
